@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Paths"
+    targetNamespace="http://tempuri.org/Paths.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Paths.xsd"
+    xmlns:mstns="http://tempuri.org/Paths.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<image>C:\\web\\1.jpg</image>
+	<image>C:\\web\\2.jpg</image>
+	<image>C:\\web\\3.jpg</image>
+	<image>C:\\web\\4.jpg</image>
+</xs:schema>
